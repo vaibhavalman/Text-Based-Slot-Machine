@@ -1,13 +1,13 @@
 # Text-Based-Slot-Machine
-Slot Machine Game
+Text Based Slot Machine Game
 
-This is a simple slot machine game written in Python. The game allows the user to deposit money, place a bet, and spin the reels. The aim is to match symbols across the paylines to win money.
+This is a simple slot machine game written in Python. The game allows the user to deposit money, place a bet, and spin the reels. The aim is to match Text across the paylines to win money.
 
 Getting Started
 
 To get started with this game, you should have Python 3 installed on your machine.
 
-Clone the repository to your local machine. Open a terminal or command prompt and navigate to the root directory of the cloned repository. Run the game by typing python slot_machine.py and pressing enter.
+Clone the repository to your local machine. Open a terminal or command prompt and navigate to the root directory of the cloned repository. Run the game by typing python text-based-slot-machine.py and pressing enter.
 
 How to Play
 
@@ -15,4 +15,4 @@ Deposit money: Enter the amount of money you would like to deposit. This must be
 
 Features
 
-The game allows the user to deposit money and place a bet on up to 3 paylines. The game has a set of symbols that are randomly generated each time the user spins the reels. The user wins money if they match symbols across the paylines. The game has a maximum and minimum bet that the user can place.
+The game allows the user to deposit money and place a bet on up to 3 paylines. The game has a set of Text char's that are randomly generated each time the user spins the reels. The user wins money if they match char's across the paylines. The game has a maximum and minimum bet that the user can place.
